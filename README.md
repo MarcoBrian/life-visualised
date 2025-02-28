@@ -96,5 +96,5 @@ Contributions are welcome! If you find bugs or have suggestions for improvements
 This project is licensed under the **MIT License**.
 
 ---
-**Created with ❤️ by [Your Name]**
+**Created with ❤️ by Marco**
 
