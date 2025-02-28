@@ -3,6 +3,8 @@
 ## Description
 LIFE VISUALISED is a React application that allows users to visualize their journey through time. By selecting their birthdate and country of residence, users can see how long they have lived and compare it with the life expectancy in their country. The application presents a grid-based visualization where each block represents a year of life.
 
+View at https://lifevisual.netlify.app/
+
 ## Features
 - **Animated Background Paths**: Uses Framer Motion to create subtle animated SVG paths for a dynamic background.
 - **Date Selection**: Custom dropdowns for selecting birthdate (year, month, day).
